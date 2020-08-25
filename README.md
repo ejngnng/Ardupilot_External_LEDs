@@ -1,7 +1,8 @@
 # Ardupilot_External_LEDs
 
 ## Description
-	This project is expand UAV External LEDs and easy DIY, This WS2812 LED controller communitcate with ardupilot with I2C, support Ardupilot firmware ver 3.6 and higher, only test with multicopters, others like Rover, Plane not have test. LEDs only for the popular WS2812, aka Neopixel， only support 3 LEDs every channel.
+
+This project is expand UAV External LEDs and easy DIY, This WS2812 LED controller communitcate with ardupilot with I2C, support Ardupilot firmware ver 3.6 and higher, only test with multicopters, others like Rover, Plane not have test. LEDs only for the popular WS2812, aka Neopixel， only support 3 LEDs every channel.
 
 * LED controller: STM32F103 or Arduino pro mini
 * LED type: WS2812
