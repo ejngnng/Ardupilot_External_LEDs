@@ -31,3 +31,4 @@ This project is expand UAV External LEDs and easy DIY, This WS2812 LED controlle
 |:----|:-----|
 | STM32 bluepill or blackpill |  APM_EXTERNAL_LED_COM_V2.0.4.bin |
 | Arduino Pro mini 3.3V 8MHz | APM_EXTERNAL_LED_COM_Arduino_8HMz_V1.0.1.hex |
+| Arduino Pro mini 5V 16MHz | APM_EXTERNAL_LED_COM_Arduino_16MHz_V1.0.1.hex |
